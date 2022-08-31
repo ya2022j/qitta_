@@ -1,1 +1,2 @@
 ginを最速さいそくでマスターしよう  https://qiita.com/Syoitu/items/8e7e3215fb7ac9dabc3a
+Go Gin爆速はや入門にゅうもん (REST API) https://qiita.com/ozora/items/0597e52b3f9c1759e292
