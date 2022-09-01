@@ -2,3 +2,8 @@ ginを最速さいそくでマスターしよう  https://qiita.com/Syoitu/items
 Go Gin爆速はや入門にゅうもん (REST API) https://qiita.com/ozora/items/0597e52b3f9c1759e292
 VSCode で Go の Language Server である gopls を有効にする   https://qiita.com/ryysud/items/1cf66ee4363aec22394a
 golang中如何将json文件解析成结构体  https://www.cnblogs.com/mayanan/p/15585414.html
+【Gin-API系列】需求设计和功能规划（一）  https://www.cnblogs.com/lxmhhy/p/13385475.html
+
+Gin-API系列文章 https://github.com/AutoBingo/Gin-IPs
+
+Question: How bind JSON array #715  https://github.com/gin-gonic/gin/issues/715
