@@ -11,3 +11,5 @@ GO(GIN框架):04---GIN渲染（各种数据格式的响应、HTML模板渲染、
 GIN框架的路由、重定向、数据解析、中间件和同步异步 https://www.freesion.com/article/24001396544/
  
 Golang：包管理  https://blog.csdn.net/jayLog/article/details/124318188
+【Golang】go path / go get / go install / go mod tidyについて　　　https://qiita.com/lamp7800/items/9a154e8e789261f87466
+Go で Go を build して Go を Go で開発かいはつしよう　　https://qiita.com/akif999/items/0b1b5e3ab75756447f9c
